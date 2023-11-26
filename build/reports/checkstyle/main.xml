@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/neo/calculator/src/main/java/com/thom/calculator/Calculator.java">
+</file>
+<file name="/home/neo/calculator/src/main/java/com/thom/calculator/CalculatorApplication.java">
+</file>
+<file name="/home/neo/calculator/src/main/java/com/thom/calculator/CalculatorController.java">
+</file>
+</checkstyle>
